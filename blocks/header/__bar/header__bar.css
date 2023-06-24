@@ -1,0 +1,10 @@
+.header__bar {
+  width: 100vw;
+  max-width: 1440px;
+  height: 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-sizing: border-box;
+  padding: 0 133px;
+}

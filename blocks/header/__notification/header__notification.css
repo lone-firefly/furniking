@@ -1,0 +1,14 @@
+.header__notification {
+  position: absolute;
+  top: 0;
+  left: 19px;
+  border-radius: 50%;
+  width: 12px;
+  height: 12px;
+  background-color: var(--green);
+  color: var(--white);
+  font-size: 7px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

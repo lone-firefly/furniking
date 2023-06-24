@@ -1,0 +1,10 @@
+.header__second-bar {
+  width: 100vw;
+  max-width: 1440px;
+  display: flex;
+  align-items: center;
+  box-sizing: border-box;
+  padding: 0 133px;
+  justify-content: space-between;
+  justify-self: center;
+}

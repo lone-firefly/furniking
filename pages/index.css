@@ -1,12 +1,37 @@
-@import '../vendor/normalize.css';
-@import '../vendor/variables.css';
-@import '../vendor/fonts/fonts.css';
-/* Blocks */ 
-@import '../blocks/page/page.css';
-/* Header */ 
-@import '../blocks/header/header.css';
-@import '../blocks/header/__title/header__title.css';
+@import "../vendor/normalize.css";
+@import "../vendor/variables.css";
+@import "../vendor/fonts/fonts.css";
+/* Blocks */
+@import "../blocks/page/page.css";
+/* Button */
+@import "../blocks/button/button.css";
+/* Header */
+@import "../blocks/header/header.css";
+@import "../blocks/header/__title/header__title.css";
+@import "../blocks/header/__top-bar/header__top-bar.css";
+@import "../blocks/header/__text/header__text.css";
+@import "../blocks/header/__group/header__group.css";
+@import "../blocks/header/__lang/header__lang.css";
+@import "../blocks/header/__img-arr/header__img-arr.css";
+@import "../blocks/header/__line/header__line.css";
+@import "../blocks/header/__log/header__log.css";
+@import "../blocks/header/__second-bar/header__second-bar.css";
+@import "../blocks/header/__gr-logo/header__gr-logo.css";
+@import "../blocks/header/__img-logo/header__img-logo.css";
+@import "../blocks/header/__logo/header__logo.css";
+@import "../blocks/header/__search/header__search.css";
+@import "../blocks/header/__search-line/header__search-line.css";
+@import "../blocks/header/__btn-menu/header__btn-menu.css";
+@import "../blocks/header/__menu-text/header__menu-text.css";
+@import "../blocks/header/__img-menu-arr/header__img-menu-arr.css";
+@import "../blocks/header/__btn-loupe/header__btn-loupe.css";
+@import "../blocks/header/__img-loupe/header__img-loupe.css";
+@import "../blocks/header/__gr-links/header__gr-links.css";
+@import "../blocks/header/__gr-cart/header__gr-cart.css";
+@import "../blocks/header/__img-link/header__img-link.css";
+@import "../blocks/header/__notification/header__notification.css";
+@import "../blocks/header/__bar/header__bar.css";
 /* Main */
-@import '../blocks/main/main.css';
+@import "../blocks/main/main.css";
 /* Footer */
-@import '../blocks/footer/footer.css';
+@import "../blocks/footer/footer.css";

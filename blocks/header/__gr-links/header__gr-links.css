@@ -1,0 +1,6 @@
+.header__gr-links {
+  display: flex;
+  align-items: center;
+  gap: 21px;
+  width: 123px;
+}

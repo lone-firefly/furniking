@@ -1,0 +1,11 @@
+.header__btn-menu {
+  padding: 0;
+  width: 123px;
+  height: 42px;
+  /* border-top: 2px solid var(--green);
+  border-bottom: 2px solid var(--green); */
+  border-left: 1.5px solid var(--form-grey);
+  display: flex;
+  align-items: center;
+  gap: 13px;
+}
