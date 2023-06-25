@@ -1,0 +1,11 @@
+.nav__nav {
+  width: 100vw;
+  max-width: 1440px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 67px;
+  background-color: var(--light-grey);
+  box-sizing: border-box;
+  padding: 0 133px;
+}

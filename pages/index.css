@@ -33,5 +33,40 @@
 @import "../blocks/header/__bar/header__bar.css";
 /* Main */
 @import "../blocks/main/main.css";
+/* Prev */
+@import "../blocks/prev/prev.css";
+@import "../blocks/prev/__table/prev__table.css";
+@import "../blocks/prev/__list/prev__list.css";
+@import "../blocks/prev/__str/prev__str.css";
+@import "../blocks/prev/__win/prev__win.css";
+@import "../blocks/prev/__link/prev__link.css";
+@import "../blocks/prev/__container/prev__container.css";
+/* Slider */
+@import "../blocks/slider/slider.css";
+@import "../blocks/slider/__gr-title/slider__gr-title.css";
+@import "../blocks/slider/__subtitle/slider__subtitle.css";
+@import "../blocks/slider/__title/slider__title.css";
+@import "../blocks/slider/__text/slider__text.css";
+@import "../blocks/slider/__btn/slider__btn.css";
+@import "../blocks/slider/__img/slider__img.css";
+@import "../blocks/slider/__gr-items/slider__gr-items.css";
+@import "../blocks/slider/__item/slider__item.css";
+@import "../blocks/slider/__img-item/slider__img-item.css";
+@import "../blocks/slider/__item-text/slider__item-text.css";
+@import "../blocks/slider/__item-text/_big/slider__item-text_big.css";
+@import "../blocks/slider/__item-text/_grey/slider__item-text_grey.css";
+@import "../blocks/slider/__buttons/slider__buttons.css";
+@import "../blocks/slider/__round/slider__round.css";
+@import "../blocks/slider/__round/_active/slider__round_active.css";
+@import "../blocks/slider/__strip/slider__strip.css";
+/* Nav */
+@import "../blocks/nav/nav.css";
+@import "../blocks/nav/__sort/nav__sort.css";
+@import "../blocks/nav/__img/nav__img.css";
+@import "../blocks/nav/__sort-text/nav__sort-text.css";
+@import "../blocks/nav/__links/nav__links.css";
+@import "../blocks/nav/__list/nav__list.css";
+@import "../blocks/nav/__link/nav__link.css";
+@import "../blocks/nav/__nav/nav__nav.css";
 /* Footer */
 @import "../blocks/footer/footer.css";

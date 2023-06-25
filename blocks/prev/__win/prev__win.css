@@ -1,0 +1,15 @@
+.prev__win {
+  border: 0.8px solid var(--line);
+  border-left: none;
+  border-right: none;
+  box-sizing: border-box;
+  padding-left: 29px;
+}
+
+.prev__win:first-child {
+  border-top: 0;
+}
+
+table tr:last-child td {
+  border-bottom: 0;
+}

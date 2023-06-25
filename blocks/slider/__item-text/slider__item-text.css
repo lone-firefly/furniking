@@ -1,0 +1,6 @@
+.slider__item-text {
+  margin: 0;
+  font-size: 7px;
+  font-weight: 500;
+  color: var(--green);
+}

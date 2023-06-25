@@ -1,0 +1,9 @@
+.slider__subtitle {
+  margin: 0;
+  color: var(--green);
+  font-size: 22px;
+  letter-spacing: 1.1px;
+  font-weight: 400;
+  width: 279px;
+  height: 25px;
+}

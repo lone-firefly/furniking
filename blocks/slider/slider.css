@@ -1,0 +1,18 @@
+.slider {
+  display: flex;
+  flex-wrap: wrap;
+  /* align-items: center; */
+  align-items: flex-start;
+  width: 899px;
+  height: 439px;
+  border-radius: 1px;
+  background: linear-gradient(
+    135deg,
+    rgba(241, 250, 255, 0.88) 0%,
+    #f1faff 100%
+  );
+  backdrop-filter: blur(77.5px);
+  box-sizing: border-box;
+  padding: 36px 47px 0 39px;
+  margin: 12px 0 0 11px;
+}

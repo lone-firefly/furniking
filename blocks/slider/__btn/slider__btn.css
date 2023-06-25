@@ -1,0 +1,13 @@
+.slider__btn {
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  border-radius: 5px;
+  width: 129px;
+  height: 40px;
+  background-color: var(--green);
+  color: var(--white);
+  font-size: 16px;
+  font-weight: 700;
+  font-family: "Mulish", sans-serif;
+}

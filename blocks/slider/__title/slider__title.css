@@ -1,0 +1,8 @@
+.slider__title {
+  margin: 0;
+  color: var(--light-black);
+  font-size: 40px;
+  font-weight: 500;
+  width: 318px;
+  height: 94px;
+}

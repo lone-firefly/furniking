@@ -1,0 +1,10 @@
+.nav__sort {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  width: 260px;
+  height: 67px;
+  background-color: var(--green);
+  box-sizing: border-box;
+  padding-left: 30px;
+}

@@ -1,0 +1,8 @@
+.prev__container {
+  display: flex;
+  justify-content: space-between;
+  box-sizing: border-box;
+  padding: 0 133px;
+  width: 100vw;
+  max-width: 1440px;
+}

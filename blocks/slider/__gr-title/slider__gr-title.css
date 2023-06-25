@@ -1,0 +1,8 @@
+.slider__gr-title {
+  position: relative;
+  width: 324px;
+  height: 254px;
+  display: grid;
+  gap: 6px;
+  margin-top: 37px;
+}
