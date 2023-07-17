@@ -1,0 +1,7 @@
+.plus__title {
+  margin: 0;
+  color: var(--dark-grey);
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 26px;
+}

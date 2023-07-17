@@ -1,4 +1,5 @@
 .prev__table {
+  min-width: 137px;
   width: 260px;
   height: 454px;
   background-color: var(--light-grey);

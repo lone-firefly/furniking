@@ -5,6 +5,8 @@
 @import "../blocks/page/page.css";
 /* Button */
 @import "../blocks/button/button.css";
+/* Flex */
+@import "../blocks/flex/flex.css";
 /* Header */
 @import "../blocks/header/header.css";
 @import "../blocks/header/__title/header__title.css";
@@ -68,5 +70,12 @@
 @import "../blocks/nav/__list/nav__list.css";
 @import "../blocks/nav/__link/nav__link.css";
 @import "../blocks/nav/__nav/nav__nav.css";
+/* Nav */
+@import "../blocks/plus/plus.css";
+@import "../blocks/plus/__card/plus__card.css";
+@import "../blocks/plus/__img/plus__img.css";
+@import "../blocks/plus/__text-gr/plus__text-gr.css";
+@import "../blocks/plus/__title/plus__title.css";
+@import "../blocks/plus/__text/plus__text.css";
 /* Footer */
 @import "../blocks/footer/footer.css";

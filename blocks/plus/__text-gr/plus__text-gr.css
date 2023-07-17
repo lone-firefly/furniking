@@ -1,0 +1,7 @@
+.plus__text-gr {
+  display: grid;
+  min-width: 133px;
+  max-width: 151px;
+  width: fit-content;
+  height: 51px;
+}

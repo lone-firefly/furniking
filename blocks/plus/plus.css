@@ -1,0 +1,9 @@
+.plus {
+  min-width: 1047px;
+  max-width: 1174px;
+  width: 81.39vw;
+  height: 58px;
+  justify-content: space-between;
+  align-items: center;
+  justify-self: center;
+}

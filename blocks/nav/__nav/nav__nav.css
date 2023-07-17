@@ -1,11 +1,10 @@
 .nav__nav {
-  width: 100vw;
-  max-width: 1440px;
+  width: 81.39vw;
+  max-width: 1174px;
   display: flex;
   align-items: center;
   justify-content: space-between;
   height: 67px;
   background-color: var(--light-grey);
   box-sizing: border-box;
-  padding: 0 133px;
 }

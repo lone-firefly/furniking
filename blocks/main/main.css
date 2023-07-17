@@ -1,3 +1,5 @@
-.main{
-    
+.main {
+  display: grid;
+  align-items: center;
+  gap: 70px;
 }

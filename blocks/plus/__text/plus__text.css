@@ -1,0 +1,6 @@
+.plus__text {
+  margin: 0;
+  color: var(--text-grey);
+  font-size: 14px;
+  line-height: 26px;
+}
