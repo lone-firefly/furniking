@@ -1,0 +1,13 @@
+.collection {
+  flex-wrap: wrap;
+  flex-direction: column;
+  height: 511px;
+  row-gap: 17px;
+  column-gap: 18px;
+  align-content: space-between;
+  width: 81.39vw;
+  min-width: 1047px;
+  max-width: 1174px;
+  justify-self: center;
+  overflow: hidden;
+}

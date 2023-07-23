@@ -1,0 +1,8 @@
+.collection__subtitle {
+  margin: 0;
+  color: var(--green);
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 26px;
+  margin: 10px 0 13px 0;
+}

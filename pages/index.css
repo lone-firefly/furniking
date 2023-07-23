@@ -77,5 +77,19 @@
 @import "../blocks/plus/__text-gr/plus__text-gr.css";
 @import "../blocks/plus/__title/plus__title.css";
 @import "../blocks/plus/__text/plus__text.css";
+/* Collection */
+@import "../blocks/collection/collection.css";
+@import "../blocks/collection/__container/collection__container.css";
+@import "../blocks/collection/__container/_big/collection__container_big.css";
+@import "../blocks/collection/__container/_small/collection__container_small.css";
+@import "../blocks/collection/__container/_small/_bookcase/collection__container_small_bookcase.css";
+@import "../blocks/collection/__container/_small/_sofa/collection__container_small_sofa.css";
+@import "../blocks/collection/__gr-text/collection__gr-text.css";
+@import "../blocks/collection/__title/collection__title.css";
+@import "../blocks/collection/__subtitle/collection__subtitle.css";
+@import "../blocks/collection/__subtitle/_small/collection__subtitle_small.css";
+@import "../blocks/collection/__gr-arr/collection__gr-arr.css";
+@import "../blocks/collection/__text/collection__text.css";
+@import "../blocks/collection/__img-arr/collection__img-arr.css";
 /* Footer */
 @import "../blocks/footer/footer.css";

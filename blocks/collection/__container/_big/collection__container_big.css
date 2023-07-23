@@ -1,0 +1,10 @@
+.collection__container_big {
+  background-image: url("../../../../images/collection/furniture.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  max-width: 669px;
+  /* width: 46.46vw; */
+  width: 44.46vw;
+  min-width: 200px;
+  height: 511px;
+}

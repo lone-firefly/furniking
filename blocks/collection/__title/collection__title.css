@@ -1,0 +1,7 @@
+.collection__title {
+  margin: 0;
+  color: var(--dark-grey);
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 26px;
+}
