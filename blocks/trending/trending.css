@@ -1,0 +1,7 @@
+.trending {
+  font-family: "Mulish", sans-serif;
+  display: grid;
+  justify-content: center;
+  margin-top: 50px;
+  gap: 45px;
+}

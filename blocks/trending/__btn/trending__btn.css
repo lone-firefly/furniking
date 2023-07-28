@@ -1,0 +1,7 @@
+.trending__btn {
+  border: none;
+  background-color: var(--white);
+  border-radius: 50%;
+  width: 38.85px;
+  height: 38.85px;
+}

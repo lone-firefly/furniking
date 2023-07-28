@@ -91,5 +91,31 @@
 @import "../blocks/collection/__gr-arr/collection__gr-arr.css";
 @import "../blocks/collection/__text/collection__text.css";
 @import "../blocks/collection/__img-arr/collection__img-arr.css";
+/* Trending */
+@import "../blocks/trending/trending.css";
+@import "../blocks/trending/__title/trending__title.css";
+@import "../blocks/trending/__links/trending__links.css";
+@import "../blocks/trending/__link-title/trending__link-title.css";
+@import "../blocks/trending/__link-title/_active/trending__link-title_active.css";
+@import "../blocks/trending/__cards/trending__cards.css";
+@import "../blocks/trending/__card/trending__card.css";
+@import "../blocks/trending/__gr-text/trending__gr-text.css";
+@import "../blocks/trending/__gr-img/trending__gr-img.css";
+@import "../blocks/trending/__gr-discount/trending__gr-discount.css";
+@import "../blocks/trending/__gr-discount/_green/trending__gr-discount_green.css";
+@import "../blocks/trending/__discount-text/trending__discount-text.css";
+@import "../blocks/trending/__text/trending__text.css";
+@import "../blocks/trending/__subtitle/trending__subtitle.css";
+@import "../blocks/trending/__gr-price/trending__gr-price.css";
+@import "../blocks/trending/__price-green/trending__price-green.css";
+@import "../blocks/trending/__price-grey/trending__price-grey.css";
+@import "../blocks/trending/__gr-stars/trending__gr-stars.css";
+@import "../blocks/trending/__star/trending__star.css";
+@import "../blocks/trending/__star-inactive/trending__star-inactive.css";
+@import "../blocks/trending/__gr-btn/trending__gr-btn.css";
+@import "../blocks/trending/__btn/trending__btn.css";
+@import "../blocks/trending/__btn-img/trending__btn-img.css";
+/* @import "../blocks/trending/__/trending__.css"; */
+
 /* Footer */
 @import "../blocks/footer/footer.css";

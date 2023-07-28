@@ -1,0 +1,12 @@
+.trending__price-grey {
+  margin: 0;
+  width: 50px;
+  height: 21px;
+  color: var(--price-grey);
+  text-align: center;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 21.6px;
+  letter-spacing: 0.09px;
+  text-decoration: line-through;
+}

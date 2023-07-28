@@ -1,0 +1,11 @@
+.trending__price-green {
+  margin: 0;
+  width: 46px;
+  height: 21px;
+  color: var(--green);
+  text-align: center;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 21.6px;
+  letter-spacing: 0.09px;
+}

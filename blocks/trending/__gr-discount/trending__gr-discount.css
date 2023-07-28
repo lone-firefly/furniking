@@ -1,0 +1,9 @@
+.trending__gr-discount {
+  width: 44.676px;
+  height: 20.42px;
+  border-radius: 0 0 5px 0;
+  background-color: var(--blue);
+  display: grid;
+  justify-content: center;
+  align-content: center;
+}

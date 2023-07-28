@@ -1,0 +1,13 @@
+.trending__gr-btn {
+  display: grid;
+  gap: 8.75px;
+  width: fit-content;
+  position: absolute;
+  bottom: 14.59px;
+  right: 6.8px;
+  opacity: 0;
+}
+
+.trending__card:hover .trending__gr-btn {
+  opacity: 1;
+}

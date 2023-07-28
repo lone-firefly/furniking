@@ -1,0 +1,11 @@
+.trending__discount-text {
+  margin: 0;
+  width: 27.415px;
+  height: 17.195px;
+  color: var(--white);
+  text-align: center;
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 130%; /* 15.6px */
+  letter-spacing: 0.096px;
+}
