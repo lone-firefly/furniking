@@ -1,0 +1,5 @@
+.offer__price-gr {
+  display: flex;
+  justify-content: space-between;
+  height: min-content;
+}

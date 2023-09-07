@@ -4,7 +4,8 @@
   background-size: cover;
   max-width: 669px;
   /* width: 46.46vw; */
-  width: 44.46vw;
+  /* width: 44.46vw;
   min-width: 200px;
-  height: 511px;
+  height: 511px; */
+  grid-area: first;
 }

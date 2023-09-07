@@ -1,0 +1,6 @@
+.offer__group {
+  display: grid;
+  align-content: space-between;
+  width: 227px;
+  height: 192px;
+}

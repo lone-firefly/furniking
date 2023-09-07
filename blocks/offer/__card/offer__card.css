@@ -1,0 +1,10 @@
+.offer__card {
+  position: relative;
+  background-image: url("../../../images/offer/Offer1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  max-width: 570px;
+  height: 247px;
+  box-sizing: border-box;
+  padding: 28px 0 29px 24px;
+}

@@ -1,0 +1,8 @@
+.offer__title {
+  margin: 0;
+  font-size: 22px;
+  font-weight: 600;
+  color: var(--dark-grey);
+  width: 227px;
+  height: 28px;
+}

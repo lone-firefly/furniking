@@ -1,0 +1,7 @@
+.trending__switch-btn_active {
+  background-image: radial-gradient(
+    var(--price-grey) 0% 25%,
+    var(--white) 0% 50%,
+    var(--price-grey) 0%
+  );
+}

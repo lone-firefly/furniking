@@ -1,0 +1,5 @@
+.offer__counter-gr {
+  display: flex;
+  justify-content: space-between;
+  height: max-content;
+}

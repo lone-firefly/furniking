@@ -7,6 +7,12 @@
 @import "../blocks/button/button.css";
 /* Flex */
 @import "../blocks/flex/flex.css";
+/* Title */
+@import "../blocks/title/title.css";
+/* Discount */
+@import "../blocks/discount/discount.css";
+@import "../blocks/discount/__text/discount__text.css";
+
 /* Header */
 @import "../blocks/header/header.css";
 @import "../blocks/header/__title/header__title.css";
@@ -115,7 +121,30 @@
 @import "../blocks/trending/__gr-btn/trending__gr-btn.css";
 @import "../blocks/trending/__btn/trending__btn.css";
 @import "../blocks/trending/__btn-img/trending__btn-img.css";
-/* @import "../blocks/trending/__/trending__.css"; */
+@import "../blocks/trending/__gr-switch-btn/trending__gr-switch-btn.css";
+@import "../blocks/trending/__switch-btn/trending__switch-btn.css";
+@import "../blocks/trending/__switch-btn/_active/trending__switch-btn_active.css";
+
+/* Offer */
+@import "../blocks/offer/offer.css";
+@import "../blocks/offer/__cards/offer__cards.css";
+@import "../blocks/offer/__card/offer__card.css";
+@import "../blocks/offer/__card/_chair/offer__card_chair.css";
+@import "../blocks/offer/__bg-img/offer__bg-img.css";
+@import "../blocks/offer/__discount/offer__discount.css";
+@import "../blocks/offer/__group/offer__group.css";
+@import "../blocks/offer/__title/offer__title.css";
+@import "../blocks/offer/__text/offer__text.css";
+@import "../blocks/offer/__price/offer__price.css";
+@import "../blocks/offer/__price/_old/offer__price_old.css";
+@import "../blocks/offer/__btn/offer__btn.css";
+@import "../blocks/offer/__counter/offer__counter.css";
+@import "../blocks/offer/__counter-text/offer__counter-text.css";
+@import "../blocks/offer/__counter-name/offer__counter-name.css";
+@import "../blocks/offer/__counter-gr/offer__counter-gr.css";
+@import "../blocks/offer/__price-gr/offer__price-gr.css";
+@import "../blocks/offer/__main-title/offer__main-title.css";
+/* @import "../blocks/offer/__/offer__.css"; */
 
 /* Footer */
 @import "../blocks/footer/footer.css";

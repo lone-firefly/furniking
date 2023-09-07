@@ -1,0 +1,11 @@
+.trending__switch-btn {
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  background-image: radial-gradient(
+    var(--green) 0% 25%,
+    var(--white) 0% 50%,
+    var(--green) 0%
+  );
+  border: none;
+}

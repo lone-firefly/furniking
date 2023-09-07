@@ -1,12 +1,19 @@
 .collection {
+  /* display: flex;
   flex-wrap: wrap;
-  flex-direction: column;
+  flex-direction: column; */
+  display: grid;
+  grid-template-columns: 57.97fr 42.03fr;
+  grid-template-rows: 1fr 1fr;
+  grid-template-areas:
+    "first second"
+    "first third";
   height: 511px;
   row-gap: 17px;
   column-gap: 18px;
   align-content: space-between;
   width: 81.39vw;
-  min-width: 1047px;
+  /* min-width: 1047px; */
   max-width: 1174px;
   justify-self: center;
   overflow: hidden;

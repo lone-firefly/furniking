@@ -1,0 +1,6 @@
+.offer__counter-name {
+  margin: 0;
+  font-size: 6px;
+  color: var(--white);
+  width: fit-content;
+}
