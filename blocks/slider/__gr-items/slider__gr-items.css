@@ -4,3 +4,12 @@
   gap: 25.53px;
   height: 322.6px;
 }
+
+@media screen and (max-width: 1118px) {
+  .slider__gr-items {
+    display: flex;
+    height: fit-content;
+    gap: 50px;
+    margin: 15px 0;
+  }
+}

@@ -3,6 +3,8 @@
   /* min-width: 1047px; */
   max-width: 1174px;
   width: 81.39vw;
-  justify-content: space-between;
+  /* justify-content: center; */
+  justify-content: space-around;
+  column-gap: 30px;
   row-gap: 45px;
 }

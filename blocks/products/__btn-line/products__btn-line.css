@@ -1,0 +1,8 @@
+.products__btn-line {
+  display: flex;
+  max-width: 570px;
+  width: 81.39vw;
+  justify-content: space-between;
+  align-items: center;
+  justify-self: flex-end;
+}

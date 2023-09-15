@@ -4,4 +4,7 @@
   border-radius: 50%;
   width: 38.85px;
   height: 38.85px;
+  display: grid;
+  justify-content: center;
+  align-items: center;
 }

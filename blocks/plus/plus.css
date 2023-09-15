@@ -1,8 +1,9 @@
 .plus {
-  min-width: 904px;
+  flex-wrap: wrap;
+  row-gap: 20px;
   max-width: 1174px;
   width: 81.39vw;
-  height: 58px;
+  min-height: 58px;
   justify-content: space-between;
   align-items: center;
   justify-self: center;

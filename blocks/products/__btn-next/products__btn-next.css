@@ -1,0 +1,15 @@
+.products__btn-next {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  background-color: var(--green);
+  color: var(--white);
+  font-size: 18px;
+  font-weight: 600;
+  border: none;
+  border-radius: 2px;
+  width: 161px;
+  height: 44px;
+}

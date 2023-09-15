@@ -1,0 +1,7 @@
+.trending__star {
+  background-image: url("../../../images/trending/star.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 12px;
+  height: 11px;
+}

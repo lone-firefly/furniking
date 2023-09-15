@@ -2,6 +2,7 @@
   width: 81.39vw;
   max-width: 1174px;
   display: flex;
-  justify-content: space-between;
+  /* justify-content: space-between; */
+  justify-content: flex-end;
   box-sizing: border-box;
 }

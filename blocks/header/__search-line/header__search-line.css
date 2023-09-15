@@ -1,5 +1,6 @@
 .header__search-line {
-  width: 403px;
+  max-width: 403px;
+  width: 100%;
   height: 42px;
   border: none;
   /* border: 2px solid var(--green);

@@ -1,11 +1,10 @@
 .slider {
-  display: flex;
-  flex-wrap: wrap;
-  /* align-items: center; */
+  display: grid;
+  justify-items: center;
   align-items: flex-start;
-  min-width: 899px;
-  width: 899px;
-  height: 439px;
+  width: 100%;
+  max-width: 899px;
+  min-height: 439px;
   border-radius: 1px;
   background: linear-gradient(
     135deg,

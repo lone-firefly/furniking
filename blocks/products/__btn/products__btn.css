@@ -1,0 +1,10 @@
+.products__btn {
+  background-color: var(--green);
+  border: none;
+  cursor: pointer;
+  width: 29px;
+  height: 29px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

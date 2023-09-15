@@ -1,4 +1,7 @@
 .prev__table {
+  position: absolute;
+  top: 67px;
+  z-index: 1;
   min-width: 137px;
   width: 260px;
   height: 454px;

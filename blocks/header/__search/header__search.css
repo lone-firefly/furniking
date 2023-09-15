@@ -1,5 +1,7 @@
 .header__search {
-  width: 580px;
+  max-width: 580px;
+  width: 80%;
+  margin: 0 10px;
   height: 42px;
   display: flex;
   align-items: center;
