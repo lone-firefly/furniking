@@ -1,0 +1,9 @@
+.customer__slider-sub-title {
+  margin: 0;
+  color: var(--dark-dark-grey);
+  text-align: center;
+  font-family: "Rubik", sans-serif;
+  font-size: 16px;
+  line-height: 125%;
+  letter-spacing: 0.08px;
+}

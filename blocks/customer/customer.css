@@ -1,0 +1,7 @@
+.customer {
+  display: grid;
+  gap: 90px;
+  width: 81.39vw;
+  justify-content: center;
+  margin-top: 50px;
+}

@@ -178,5 +178,21 @@
 @import "../blocks/products/__btn-right/products__btn-right.css";
 /* @import "../blocks/products/__/products__.css"; */
 
+/* Customer */
+@import "../blocks/customer/customer.css";
+@import "../blocks/customer/__title/customer__title.css";
+@import "../blocks/customer/__slider/customer__slider.css";
+@import "../blocks/customer/__btn-slider/customer__btn-slider.css";
+@import "../blocks/customer/__btn-slider-right/customer__btn-slider-right.css";
+@import "../blocks/customer/__btn-arr-right/customer__btn-arr-right.css";
+@import "../blocks/customer/__slider-main/customer__slider-main.css";
+@import "../blocks/customer/__img-avatar/customer__img-avatar.css";
+@import "../blocks/customer/__text/customer__text.css";
+@import "../blocks/customer/__slider-title/customer__slider-title.css";
+@import "../blocks/customer/__slider-sub-title/customer__slider-sub-title.css";
+@import "../blocks/customer/__btn-slider-left/customer__btn-slider-left.css";
+@import "../blocks/customer/__btn-arr-left/customer__btn-arr-left.css";
+/* @import "../blocks/customer/__/customer__.css"; */
+
 /* Footer */
 @import "../blocks/footer/footer.css";

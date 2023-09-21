@@ -1,0 +1,15 @@
+.customer__slider-main {
+  position: relative;
+  display: grid;
+  gap: 10px;
+  justify-items: center;
+  align-content: center;
+  max-width: 816px;
+  width: 81.39vw;
+  height: 312px;
+  border-radius: 8px;
+  background: var(--grey-input);
+  box-shadow: 0px 2px 6px 0px rgba(0, 0, 0, 0.05);
+  box-sizing: border-box;
+  padding: 0 10px;
+}

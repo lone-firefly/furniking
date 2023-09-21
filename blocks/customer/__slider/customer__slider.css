@@ -1,0 +1,7 @@
+.customer__slider {
+  display: flex;
+  align-items: center;
+  gap: 37px;
+  max-width: 1034px;
+  width: 81.39vw;
+}
