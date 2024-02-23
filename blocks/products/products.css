@@ -1,5 +1,6 @@
 .products {
   display: grid;
+  justify-content: center;
   margin-top: 50px;
   gap: 45px;
   width: 81.39vw;

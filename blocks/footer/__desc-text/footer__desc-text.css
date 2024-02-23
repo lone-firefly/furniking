@@ -1,0 +1,5 @@
+.footer__desc-text {
+  margin: 0;
+  max-width: 318px;
+  color: var(--dark-grey);
+}

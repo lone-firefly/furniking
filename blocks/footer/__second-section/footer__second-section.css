@@ -1,0 +1,12 @@
+.footer__second-section {
+  width: 100vw;
+  height: 82px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(1px, 1fr));
+  grid-template-rows: 1px 82px;
+  grid-template-areas:
+    "line line"
+    "text list";
+  justify-items: center;
+  align-items: center;
+}

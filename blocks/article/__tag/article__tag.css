@@ -1,0 +1,11 @@
+.article__tag {
+  display: flex;
+  align-items: center;
+  background-color: var(--white);
+  width: fit-content;
+  height: 24px;
+  box-sizing: border-box;
+  padding: 0 5px;
+  gap: 3px;
+  border-radius: 3px;
+}

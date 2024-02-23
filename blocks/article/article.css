@@ -1,0 +1,8 @@
+.article {
+  display: grid;
+  font-family: "Mulish", sans-serif;
+  width: 81.39vw;
+  max-width: 1174px;
+  gap: 57px;
+  margin-top: 45px;
+}

@@ -1,0 +1,12 @@
+.article__card {
+  position: relative;
+  /* width: 569.751px; */
+  width: 100%;
+  height: 455.28px;
+  box-sizing: border-box;
+  padding: 0 10px 30px 45px;
+  display: grid;
+  /* background-image: url("../../../images/article/furniture-bg.png"); */
+  background-size: cover;
+  background-repeat: no-repeat;
+}

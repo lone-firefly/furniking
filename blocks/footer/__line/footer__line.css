@@ -1,0 +1,6 @@
+.footer__line {
+  height: 1px;
+  width: 100vw;
+  background-color: var(--grey-line);
+  grid-area: line;
+}

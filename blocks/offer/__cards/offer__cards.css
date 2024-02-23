@@ -1,8 +1,10 @@
 .offer__cards {
   display: grid;
-  grid-template-columns: 1fr 1fr;
-  grid-template-rows: 1fr;
-  grid-template-areas: "furniture chair";
+  /* grid-template-columns: 1fr 1fr; */
+  /* grid-template-rows: 1fr; */
+  /* grid-template-areas: "furniture chair"; */
   width: 100%;
   gap: 30px;
+  grid-template-columns: repeat(auto-fit, minmax(271px, 1fr));
+  grid-template-rows: repeat(auto-fit, minmax(247px, 2fr));
 }

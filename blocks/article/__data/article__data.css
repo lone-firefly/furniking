@@ -1,0 +1,7 @@
+.article__data {
+  margin: 0;
+  color: var(--white);
+  font-size: 14px;
+  line-height: 130%;
+  letter-spacing: 0.112px;
+}

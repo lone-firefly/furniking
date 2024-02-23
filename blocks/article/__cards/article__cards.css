@@ -1,0 +1,13 @@
+.article__cards {
+  display: grid;
+  column-gap: 26px;
+  row-gap: 22px;
+  grid-template-columns: repeat(auto-fit, minmax(414px, 1fr));
+  grid-template-rows: repeat(auto-fit, minmax(100px, 1fr));
+
+  /* grid-template-columns: minmax(570px, 1fr);
+  grid-template-rows: repeat(auto-fit, minmax(100px, 1fr)); */
+
+  /* grid-template-columns: repeat(auto-fit, max-content); */
+  /* grid-template-columns: repeat(auto-fit, minmax(min-content, max-content)); */
+}

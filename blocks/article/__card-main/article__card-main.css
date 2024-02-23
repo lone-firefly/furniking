@@ -1,0 +1,5 @@
+.article__card-main {
+  display: grid;
+  gap: 20px;
+  align-self: end;
+}

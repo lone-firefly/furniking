@@ -1,0 +1,7 @@
+.footer__small-list {
+  display: flex;
+  width: 40vw;
+  max-width: 248px;
+  justify-content: space-between;
+  grid-area: list;
+}

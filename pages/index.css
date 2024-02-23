@@ -194,5 +194,44 @@
 @import "../blocks/customer/__btn-arr-left/customer__btn-arr-left.css";
 /* @import "../blocks/customer/__/customer__.css"; */
 
+/* Article */
+@import "../blocks/article/article.css";
+@import "../blocks/article/__title/article__title.css";
+@import "../blocks/article/__cards/article__cards.css";
+@import "../blocks/article/__card/article__card.css";
+@import "../blocks/article/__bg-img/article__bg-img.css";
+@import "../blocks/article/__tags-data/article__tags-data.css";
+@import "../blocks/article/__tag/article__tag.css";
+@import "../blocks/article/__img-tag/article__img-tag.css";
+@import "../blocks/article/__tag-text/article__tag-text.css";
+@import "../blocks/article/__data/article__data.css";
+@import "../blocks/article/__card-title/article__card-title.css";
+@import "../blocks/article/__card-text/article__card-text.css";
+@import "../blocks/article/__card-main/article__card-main.css";
+/* @import "../blocks/article/__/article__.css"; */
+
 /* Footer */
 @import "../blocks/footer/footer.css";
+@import "../blocks/footer/__first-section/footer__first-section.css";
+@import "../blocks/footer/__second-section/footer__second-section.css";
+@import "../blocks/footer/__desc-gr/footer__desc-gr.css";
+@import "../blocks/footer/__logo-gr/footer__logo-gr.css";
+@import "../blocks/footer/__logo-img/footer__logo-img.css";
+@import "../blocks/footer/__logo-text/footer__logo-text.css";
+@import "../blocks/footer/__desc-text/footer__desc-text.css";
+@import "../blocks/footer/__messenger-logo/footer__messenger-logo.css";
+@import "../blocks/footer/__messenger-img/footer__messenger-img.css";
+@import "../blocks/footer/__list-wrap/footer__list-wrap.css";
+@import "../blocks/footer/__list-wrap/_help/footer__list-wrap_help.css";
+@import "../blocks/footer/__list-wrap/_store/footer__list-wrap_store.css";
+@import "../blocks/footer/__list-wrap/_supports/footer__list-wrap_supports.css";
+@import "../blocks/footer/__header-wrap/footer__header-wrap.css";
+@import "../blocks/footer/__header/footer__header.css";
+@import "../blocks/footer/__btn-open/footer__btn-open.css";
+@import "../blocks/footer/__list/footer__list.css";
+@import "../blocks/footer/__item/footer__item.css";
+@import "../blocks/footer/__text/footer__text.css";
+@import "../blocks/footer/__small-list/footer__small-list.css";
+@import "../blocks/footer/__small-link/footer__small-link.css";
+@import "../blocks/footer/__line/footer__line.css";
+/* @import "../blocks/footer/__/footer__.css"; */
